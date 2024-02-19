@@ -1,5 +1,4 @@
 # Signup-Page
-https://nikita11ch.github.io/Signup-Page/
 <br>
 <br>
 This GitHub repository contains a lightweight and visually appealing signup page template created using HTML and CSS. 
